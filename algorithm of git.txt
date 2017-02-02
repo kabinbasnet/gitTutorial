@@ -1,0 +1,15 @@
+Repository=gitTutorial
+user = kecpc
+pass = perfect123
+git --version
+git init
+git status
+git add .
+git commit -m "first commit"
+git config user.name "...."
+git config user.email "....."
+git commit -m "second commit"
+git log
+git remote add origin https://github.com/kabinbasnet/gitTutorial.git
+git remote -v
+git-push - Update remote refs along with associated objects.Eg:git push origin master
