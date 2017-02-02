@@ -2,6 +2,7 @@ Repository=gitTutorial
 user = kecpc
 pass = perfect123
 git --version
+//www.github.com
 git init
 git status
 git add .
@@ -13,3 +14,18 @@ git log
 git remote add origin https://github.com/kabinbasnet/gitTutorial.git
 git remote -v
 git-push - Update remote refs along with associated objects.Eg:git push origin master
+//if push vayana vana
+git status
+git add .
+git remote -v
+git push origin master
+git config --edit --global
+git remote add origin https://github.com/kabinbasnet/gitTutorial.git
+git remote remote origin
+git remote add origin https://github.com/kabinbasnet/gitTutorial.git
+git remote -v
+git push origin master -f
+create a text file and rename .gitignore then new folder open
+touch .gitignore
+
+
